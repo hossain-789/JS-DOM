@@ -1,5 +1,5 @@
 //variable
-//জাভা স্ক্রিপ্টে যে কোনো ডাটাকে একটি ভেরিয়েবল এর মধ্যে জমা করে রাখতে পারবো
+// Any data can be stored in a variable in JavaScript
 
 var user_name = 'Imtiaz Mahi'
 var age = '21'

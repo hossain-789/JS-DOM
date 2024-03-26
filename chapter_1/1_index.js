@@ -1,4 +1,4 @@
-// জাভা স্ক্রিপ্টের কনসোলে বা আউটপুটে কোনো কিছু দেখতে চাইলে লিখতে হয়
+// If you want to see something in the Java Script console or output, you have to write
 
 // console.log('Hello world')
 // console.log('I love bangladesh')
@@ -6,7 +6,6 @@
 // console.log(60.789)
 // console.log('My fav no '+ 9)
 // console.log(9 + 9);
-
 
 
 // console.log('Hello world')

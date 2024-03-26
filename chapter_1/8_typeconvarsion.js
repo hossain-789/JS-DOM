@@ -12,11 +12,11 @@ console.log(Boolean(Infinity))
 console.log(Boolean(-Infinity))
 
 //falsy valus
-''
-0
-null
-undefined
-NaN
+// ''
+// 0
+// null
+// undefined
+// NaN
 
 console.log(Boolean(''))
 console.log(Boolean('asdfgh'))
